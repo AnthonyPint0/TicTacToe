@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="heading1">Welcome to Tic-Tac-Toe</string>
+    <string name="main_grid">Main Grid</string>
+    <string name="o_1">O.1</string>
+    <string name="o_2">O.2</string>
+    <string name="o_3">O.3</string>
+    <string name="o_4">O.4</string>
+    <string name="o_5">O.5</string>
+    <string name="o_6">O.6</string>
+    <string name="o_7">O.7</string>
+    <string name="o_8">O.8</string>
+    <string name="o_9">O.9</string>
+</resources>
